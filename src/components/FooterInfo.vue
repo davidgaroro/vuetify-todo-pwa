@@ -1,12 +1,12 @@
 <template>
 <footer class="caption">
   <p>Double-click to edit a todo</p>
-  <p>Inspired by <a href="http://todomvc.com">TodoMVC</a></p>
-  <p><a href="https://github.com/davidgaroro/vuetify-todo-pwa">vuetify-todo-pwa</a></p>
+  <p>Inspired by <a href="http://todomvc.com" target="_blank">TodoMVC</a></p>
+  <p><a href="https://github.com/davidgaroro/vuetify-todo-pwa" target="_blank">View on GitHub</a></p>
 </footer>
 </template>
 
-<style lang="stylus" scoped>
+<style lang="stylus">
 footer
   margin: 65px auto 0
   color: #bfbfbf
@@ -16,7 +16,6 @@ footer
   a
     color: inherit
     text-decoration: none
-    font-weight: 400
     &:hover
       text-decoration: underline
 </style>

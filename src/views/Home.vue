@@ -154,11 +154,8 @@ export default {
 </script>
 
 <style lang="stylus">
-.v-text-field .v-input__slot
-  padding: 0 !important
-</style>
-
-<style lang="stylus" scoped>
 h1
   opacity: 0.3
+.v-text-field .v-input__slot
+  padding: 0 !important
 </style>
