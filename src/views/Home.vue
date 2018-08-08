@@ -64,13 +64,12 @@
           </v-btn-toggle>
         </v-card-actions>
         <v-list class="pa-0">
-          <v-divider></v-divider>
           <template v-for="todo in filteredTodos">
+            <v-divider :key="`${todo.uid}-divider`"></v-divider>
             <TodoItem
               :key="todo.uid"
               :todo="todo"
             />
-            <v-divider :key="`${todo.uid}-divider`"></v-divider>
           </template>
         </v-list>
       </v-card>
