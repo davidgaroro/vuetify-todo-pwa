@@ -15,11 +15,11 @@
     "vuex": "^3.0.1"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.0.0-rc.11",
-    "@vue/cli-plugin-eslint": "^3.0.0-rc.11",
-    "@vue/cli-plugin-pwa": "^3.0.0-rc.11",
-    "@vue/cli-service": "^3.0.0-rc.11",
-    "@vue/eslint-config-standard": "^3.0.0-rc.11",
+    "@vue/cli-plugin-babel": "^3.0.0-rc.12",
+    "@vue/cli-plugin-eslint": "^3.0.0-rc.12",
+    "@vue/cli-plugin-pwa": "^3.0.0-rc.12",
+    "@vue/cli-service": "^3.0.0-rc.12",
+    "@vue/eslint-config-standard": "^3.0.0-rc.12",
     "babel-plugin-transform-imports": "^1.5.0",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.2",
