@@ -97,8 +97,8 @@ export default {
 .todo-item
   .v-list__tile
     height: auto
-    padding-top: 8px
-    padding-bottom: 8px
+    padding-top: 12px
+    padding-bottom: 12px
   &.editing .v-list__tile
     height: 48px
 </style>
