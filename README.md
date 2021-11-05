@@ -9,8 +9,8 @@ This project is a simple Todo [PWA] (Progressive Web App) inspired by [TodoMVC].
 [Vuetify]: https://vuetifyjs.com
 
 <p align="center">
-  <a href="https://vuetifytodo.davidgaroro.es" target="_blank" rel="noopener">
-    <img src="https://vuetifytodo.davidgaroro.es/github/app.png">
+  <a href="https://davidgaroro.github.io/vuetify-todo-pwa" target="_blank" rel="noopener">
+    <img src="https://i.imgur.com/A2aaDq8.png"><br/>
     Live Demo
   </a>
 </p>
